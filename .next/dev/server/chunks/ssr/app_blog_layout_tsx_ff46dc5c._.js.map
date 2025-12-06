@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac/Desktop/my%20portfolio%20/YourBrand%20digital/app/blog/layout.tsx"],"sourcesContent":["import type { Metadata } from 'next'\n\nexport const metadata: Metadata = {\n  title: 'Blog | YourBrand - Technology Insights and Updates',\n  description:\n    'Stay updated with the latest insights, tips, and news from our team. Learn about technology trends, best practices, web development, and industry updates.',\n  keywords: [\n    'technology blog',\n    'web development blog',\n    'tech insights',\n    'development tips',\n    'industry news',\n  ],\n  openGraph: {\n    title: 'Blog | YourBrand',\n    description:\n      'Stay updated with the latest insights, tips, and news from our team. Learn about technology trends, best practices, and industry updates.',\n    type: 'website',\n  },\n}\n\nexport default function BlogLayout({\n  children,\n}: {\n  children: React.ReactNode\n}) {\n  return children\n}\n\n"],"names":[],"mappings":";;;;;;AAEO,MAAM,WAAqB;IAChC,OAAO;IACP,aACE;IACF,UAAU;QACR;QACA;QACA;QACA;QACA;KACD;IACD,WAAW;QACT,OAAO;QACP,aACE;QACF,MAAM;IACR;AACF;AAEe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,OAAO;AACT"}}]
+}
